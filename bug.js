@@ -1,0 +1,3 @@
+This error occurs when you are using a library that uses the native modules in React Native. It happens because the native modules are not correctly linked to your project.
+
+For example, if you are using a library such as react-native-camera, and you encounter this error, it could be due to the fact that the native modules for the library are not correctly linked to your project. This can be due to several reasons, such as an incorrect installation of the library, or a mismatch between the versions of the library and your React Native project.
